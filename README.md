@@ -6,7 +6,6 @@ This repository demonstrates a Microsoft SQL Server ETL (Extract, Transform, Loa
 
 The project showcases SQL Server programming concepts including Stored Procedures, Dynamic SQL, Bulk Insert, Cursors, Error Handling, and Query Optimization.
 
-> Note: All confidential company information, file paths, and sensitive data have been removed or anonymized.
 
 ---
 
